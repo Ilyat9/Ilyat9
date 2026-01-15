@@ -1,5 +1,5 @@
-## Hi there 👋
-# Я Ilyat! 
+## Привет 👋
+# Я Илья! 
 
 ### Future Fullstack / ML Platform Engineer
 
