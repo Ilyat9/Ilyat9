@@ -36,7 +36,6 @@
     * **Стек:** Python, FastAPI, OpenAI API, Render (PaaS).
     * **Фишка:** Реализовал пайплайн извлечения транскриптов и генерации саммари через GPT. Сервис полностью готов к продакшену и развернут в облаке.
     * * **Live Demo:** [ai-summary-frontend-19vp.onrender.com](https://ai-summary-frontend-19vp.onrender.com/)
-    * **Live Demo:** [ai-summary-frontend-19vp.onrender.com](https://ai-summary-frontend-19vp.onrender.com/)
 * **[MovieScore Aggregator](https://github.com/Ilyat9/moviescore-aggregator)** — Сервис сбора и предобработки данных для последующего анализа и агрегации кинорейтингов.
     * **Стек:** Python, FastAPI, Pydantic, HTTPX.
     * **Фишка:** Реализовал интеграцию с внешними API (OMDb), асинхронную обработку запросов и строгую валидацию данных. Сервис автоматически рассчитывает средневзвешенный рейтинг фильма на основе данных из нескольких источников.
