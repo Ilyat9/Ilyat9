@@ -60,7 +60,7 @@
 
 ---
 
-![Ilya's Stats](https://github-readme-stats.vercel.app/api?username=Ilyat9&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilyat9&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyat9&layout=compact&theme=radical)
 
