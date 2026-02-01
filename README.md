@@ -60,7 +60,9 @@
 
 ---
 
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Ilyat9&show_icons=true&theme=radical)
 
+![Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ilyat9&layout=compact&theme=radical)
 
 
 ### 📫 Как со мной связаться:
