@@ -31,7 +31,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### **Backend & Systems**
 * **Languages**: Python,C++ (14/17), SQL (PostgreSQL)
 * **Libraries**: Pandas, NumPy, Scikit-learn, CatBoost
 * **Core:** FastAPI, Asyncio, SQLAlchemy, Pydantic, Alembic (миграции).
