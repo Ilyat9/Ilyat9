@@ -39,7 +39,7 @@
 * **DevOps & Tools**: Git, Docker, GNU Make, CMake
 
 #### **AI & Automation**
-* **LLM:** Prompt Engineering, ReAct Agent Architecture, API (OpenRouter, Claude, Gemini).
+* **LLM:** Prompt Engineering, ReAct Agent Architecture,LangChain, API (OpenRouter, Claude, Gemini).
 * **Automation:** Selenium/Playwright, Stealth-scraping, Celery + Redis (фоновые задачи).
 * **Data:** NumPy, Scikit-learn, CatBoost (базовая обработка данных).
 
